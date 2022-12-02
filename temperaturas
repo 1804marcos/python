@@ -4,4 +4,10 @@ con este script primero nos importamos los modulos de time y os
 >
 creamos la variable de fecha y hora
 >
-Y creamos un bucle donde nos pregunta temperaturas hasta que introduzcamos el valor 100,
+Y creamos un bucle donde nos pregunta temperaturas hasta que introduzcamos el valor 100-
+>
+Los valores introducidos se guardan en la variable temperatura, de la cual aplicando el atributo max 
+sacamos el valor maximo, con el atributo min sacamos el minimo,para la media hacemos el sumatorio de las temperaturas y la dividimos entre
+>
+el numero de registros,luego con los prints generamos el informe.
+![](https://github.com/1804marcos/python/blob/main/ejecucion/temperaturas.PNGg){width='200px'}
