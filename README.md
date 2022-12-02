@@ -4,6 +4,6 @@ tambien se rediccionara a un fichero el resultado
 >
 -INDICE
 *CADENA
-[link text itself]: https://github.com/1804marcos/python/blob/main/cadena
+ https://github.com/1804marcos/python/blob/main/cadena
 *LISTAS
-[link text itself]: https://github.com/1804marcos/python/blob/main/listas
+ https://github.com/1804marcos/python/blob/main/listas
