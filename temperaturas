@@ -1,0 +1,7 @@
+# TEMPERATURAS
+>
+con este script primero nos importamos los modulos de time y os
+>
+creamos la variable de fecha y hora
+>
+Y creamos un bucle donde nos pregunta temperaturas hasta que introduzcamos el valor 100,
