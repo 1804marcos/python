@@ -5,5 +5,6 @@ tambien se rediccionara a un fichero el resultado
 - INDICE
 * CADENA
  https://github.com/1804marcos/python/blob/main/cadena
+ >
 * LISTAS
  https://github.com/1804marcos/python/blob/main/listas
